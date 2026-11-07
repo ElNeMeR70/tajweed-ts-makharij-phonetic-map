@@ -1,0 +1,11 @@
+{
+  "name": "tajweed-ts-makharij-phonetic-map",
+  "version": "1.0.0",
+  "description": "17 Articulation Points (Makharij) & Sifat Feature Matrix (خريطة مخارج الحروف السبعة عشر وصفاتها الصوتية)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  },
+  "author": "Mahmoud ElNemer",
+  "license": "MIT"
+}
